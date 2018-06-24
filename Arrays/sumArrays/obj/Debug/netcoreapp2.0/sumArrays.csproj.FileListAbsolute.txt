@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\bin\Debug\netcoreapp2.0\sumArrays.deps.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\bin\Debug\netcoreapp2.0\sumArrays.runtimeconfig.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\bin\Debug\netcoreapp2.0\sumArrays.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\bin\Debug\netcoreapp2.0\sumArrays.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\bin\Debug\netcoreapp2.0\sumArrays.pdb
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.pdb
+C:\Users\havit\source\repos\5.19.18ArraysLab\sumArrays\obj\Debug\netcoreapp2.0\sumArrays.csprojResolveAssemblyReference.cache

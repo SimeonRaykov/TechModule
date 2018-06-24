@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.deps.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\RoundingNumbersAwayFromZero.pdb
