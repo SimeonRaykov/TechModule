@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.deps.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.runtimeconfig.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.runtimeconfig.dev.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.dll
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\bin\Debug\netcoreapp2.0\EmailStatistics.pdb
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.AssemblyInfo.cs
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.dll
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailStatistics\obj\Debug\netcoreapp2.0\EmailStatistics.pdb

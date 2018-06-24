@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.deps.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.runtimeconfig.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.runtimeconfig.dev.json
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.dll
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\bin\Debug\netcoreapp2.0\EmailMe.pdb
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.csprojAssemblyReference.cache
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.AssemblyInfo.cs
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.dll
+C:\Users\havit\source\repos\6.20.18ExercisesStringz\EmailMe\obj\Debug\netcoreapp2.0\EmailMe.pdb
