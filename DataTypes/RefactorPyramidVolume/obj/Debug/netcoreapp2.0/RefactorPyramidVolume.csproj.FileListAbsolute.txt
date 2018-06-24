@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\netcoreapp2.0\RefactorPyramidVolume.deps.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\netcoreapp2.0\RefactorPyramidVolume.runtimeconfig.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\netcoreapp2.0\RefactorPyramidVolume.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\netcoreapp2.0\RefactorPyramidVolume.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\bin\Debug\netcoreapp2.0\RefactorPyramidVolume.pdb
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorPyramidVolume\obj\Debug\netcoreapp2.0\RefactorPyramidVolume.pdb
