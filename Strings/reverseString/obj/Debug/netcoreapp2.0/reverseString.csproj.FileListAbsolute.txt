@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\bin\Debug\netcoreapp2.0\reverseString.deps.json
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\bin\Debug\netcoreapp2.0\reverseString.runtimeconfig.json
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\bin\Debug\netcoreapp2.0\reverseString.runtimeconfig.dev.json
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\bin\Debug\netcoreapp2.0\reverseString.dll
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\bin\Debug\netcoreapp2.0\reverseString.pdb
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.AssemblyInfo.cs
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.dll
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.pdb
+C:\Users\havit\source\repos\23.5.18Stringslab\reverseString\obj\Debug\netcoreapp2.0\reverseString.csprojResolveAssemblyReference.cache
