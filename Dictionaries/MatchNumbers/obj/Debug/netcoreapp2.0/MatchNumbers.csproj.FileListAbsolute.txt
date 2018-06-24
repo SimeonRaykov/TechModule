@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.deps.json
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.runtimeconfig.json
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.runtimeconfig.dev.json
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.dll
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\bin\Debug\netcoreapp2.0\MatchNumbers.pdb
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.AssemblyInfo.cs
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.dll
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.pdb
+C:\Users\havit\source\repos\DictionariesExercises\MatchNumbers\obj\Debug\netcoreapp2.0\MatchNumbers.csprojResolveAssemblyReference.cache

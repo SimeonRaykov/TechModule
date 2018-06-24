@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.deps.json
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.runtimeconfig.json
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.runtimeconfig.dev.json
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.dll
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\bin\Debug\netcoreapp2.0\PhoneBook.pdb
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.AssemblyInfo.cs
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.dll
+C:\Users\havit\source\repos\DictionariesExercises6.7.18\PhoneBook\obj\Debug\netcoreapp2.0\PhoneBook.pdb
