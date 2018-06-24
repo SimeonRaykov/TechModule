@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\bin\Debug\netcoreapp2.0\ArraysWeekend.deps.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\bin\Debug\netcoreapp2.0\ArraysWeekend.runtimeconfig.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\bin\Debug\netcoreapp2.0\ArraysWeekend.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\bin\Debug\netcoreapp2.0\ArraysWeekend.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\bin\Debug\netcoreapp2.0\ArraysWeekend.pdb
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.dll
+C:\Users\havit\source\repos\5.19.18ArraysLab\ArraysWeekend\obj\Debug\netcoreapp2.0\ArraysWeekend.pdb
