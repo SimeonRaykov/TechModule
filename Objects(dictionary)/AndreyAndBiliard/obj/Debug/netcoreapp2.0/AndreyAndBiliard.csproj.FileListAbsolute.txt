@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\bin\Debug\netcoreapp2.0\AndreyAndBiliard.deps.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\bin\Debug\netcoreapp2.0\AndreyAndBiliard.runtimeconfig.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\bin\Debug\netcoreapp2.0\AndreyAndBiliard.runtimeconfig.dev.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\bin\Debug\netcoreapp2.0\AndreyAndBiliard.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\bin\Debug\netcoreapp2.0\AndreyAndBiliard.pdb
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.csprojAssemblyReference.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.AssemblyInfo.cs
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\AndreyAndBiliard\obj\Debug\netcoreapp2.0\AndreyAndBiliard.pdb

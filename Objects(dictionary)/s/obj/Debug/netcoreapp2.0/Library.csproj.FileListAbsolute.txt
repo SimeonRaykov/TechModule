@@ -1,0 +1,11 @@
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\bin\Debug\netcoreapp2.0\Library.deps.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\bin\Debug\netcoreapp2.0\Library.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\bin\Debug\netcoreapp2.0\Library.pdb
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\s\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache

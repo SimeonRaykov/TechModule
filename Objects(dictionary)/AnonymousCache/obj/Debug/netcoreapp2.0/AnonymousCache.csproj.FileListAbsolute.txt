@@ -1,0 +1,11 @@
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.deps.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.runtimeconfig.dev.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\bin\Debug\netcoreapp2.0\AnonymousCache.pdb
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csprojResolveAssemblyReference.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.csproj.CoreCompileInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfoInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.AssemblyInfo.cs
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\AnonymousCache\obj\Debug\netcoreapp2.0\AnonymousCache.pdb

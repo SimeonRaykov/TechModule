@@ -1,0 +1,11 @@
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.csprojAssemblyReference.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.csproj.CoreCompileInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.AssemblyInfoInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.AssemblyInfo.cs
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.deps.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.runtimeconfig.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.runtimeconfig.dev.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\bin\Debug\netcoreapp2.0\KaminoFactory.pdb
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\KaminoFactory\obj\Debug\netcoreapp2.0\KaminoFactory.pdb
