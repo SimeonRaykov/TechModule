@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\bin\Debug\netcoreapp2.0\MaxSequenceOfInt.deps.json
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\bin\Debug\netcoreapp2.0\MaxSequenceOfInt.runtimeconfig.json
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\bin\Debug\netcoreapp2.0\MaxSequenceOfInt.runtimeconfig.dev.json
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\bin\Debug\netcoreapp2.0\MaxSequenceOfInt.dll
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\bin\Debug\netcoreapp2.0\MaxSequenceOfInt.pdb
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.AssemblyInfo.cs
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.dll
+C:\Users\havit\source\repos\28.5.18ListExercises\p01\obj\Debug\netcoreapp2.0\MaxSequenceOfInt.pdb
