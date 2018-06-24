@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.deps.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\netcoreapp2.0\TriplesOfLatinLetters.pdb

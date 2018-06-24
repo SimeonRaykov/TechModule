@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.deps.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.runtimeconfig.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.0\SpecialNumbers.pdb
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.0\SpecialNumbers.pdb

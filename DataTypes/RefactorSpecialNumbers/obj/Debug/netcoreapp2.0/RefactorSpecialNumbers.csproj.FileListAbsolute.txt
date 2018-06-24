@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.deps.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.0\RefactorSpecialNumbers.pdb
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.dll
+C:\Users\havit\source\repos\5.3.18 DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.0\RefactorSpecialNumbers.pdb
