@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.deps.json
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.runtimeconfig.json
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.runtimeconfig.dev.json
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.dll
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\bin\Debug\netcoreapp2.0\MatchHexadecimalNumbers.pdb
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.AssemblyInfo.cs
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.dll
+C:\Users\havit\source\repos\6.5.18RegexLab\MatchHexadecimalNumbers\obj\Debug\netcoreapp2.0\MatchHexadecimalNumbers.pdb
