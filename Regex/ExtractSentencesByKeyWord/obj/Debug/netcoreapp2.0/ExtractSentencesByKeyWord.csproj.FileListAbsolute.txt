@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.AssemblyInfo.cs
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.deps.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.runtimeconfig.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.runtimeconfig.dev.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.dll
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.pdb
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.dll
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractSentencesByKeyWord\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyWord.pdb

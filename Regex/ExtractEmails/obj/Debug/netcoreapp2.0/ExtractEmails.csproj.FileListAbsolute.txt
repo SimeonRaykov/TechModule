@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.deps.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.runtimeconfig.dev.json
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.dll
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\bin\Debug\netcoreapp2.0\ExtractEmails.pdb
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.AssemblyInfo.cs
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.dll
+C:\Users\havit\source\repos\6.6.18RegexExercises\ExtractEmails\obj\Debug\netcoreapp2.0\ExtractEmails.pdb
