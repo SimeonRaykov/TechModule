@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.AssemblyInfo.cs
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.deps.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.runtimeconfig.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.runtimeconfig.dev.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\bin\Debug\netcoreapp2.0\UpgradedMatcher.pdb
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.8.18\UpgradedMatcher\obj\Debug\netcoreapp2.0\UpgradedMatcher.pdb
