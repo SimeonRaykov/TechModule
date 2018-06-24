@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\bin\Debug\netcoreapp2.0\LibraryUpgrade.deps.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\bin\Debug\netcoreapp2.0\LibraryUpgrade.runtimeconfig.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\bin\Debug\netcoreapp2.0\LibraryUpgrade.runtimeconfig.dev.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\bin\Debug\netcoreapp2.0\LibraryUpgrade.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\bin\Debug\netcoreapp2.0\LibraryUpgrade.pdb
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\obj\Debug\netcoreapp2.0\LibraryUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\obj\Debug\netcoreapp2.0\LibraryUpgrade.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\obj\Debug\netcoreapp2.0\LibraryUpgrade.AssemblyInfo.cs
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\obj\Debug\netcoreapp2.0\LibraryUpgrade.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\LibraryUpgrade\obj\Debug\netcoreapp2.0\LibraryUpgrade.pdb

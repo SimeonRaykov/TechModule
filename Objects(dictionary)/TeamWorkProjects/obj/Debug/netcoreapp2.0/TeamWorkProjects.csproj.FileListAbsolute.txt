@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\bin\Debug\netcoreapp2.0\TeamWorkProjects.deps.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\bin\Debug\netcoreapp2.0\TeamWorkProjects.runtimeconfig.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\bin\Debug\netcoreapp2.0\TeamWorkProjects.runtimeconfig.dev.json
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\bin\Debug\netcoreapp2.0\TeamWorkProjects.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\bin\Debug\netcoreapp2.0\TeamWorkProjects.pdb
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.csprojAssemblyReference.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.AssemblyInfo.cs
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.dll
+C:\Users\havit\source\repos\Objects(Dict)Exercises6.17.18\TeamWorkProjects\obj\Debug\netcoreapp2.0\TeamWorkProjects.pdb

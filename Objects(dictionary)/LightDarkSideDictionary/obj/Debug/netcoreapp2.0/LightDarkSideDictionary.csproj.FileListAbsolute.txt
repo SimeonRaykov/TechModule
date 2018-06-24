@@ -1,0 +1,11 @@
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\bin\Debug\netcoreapp2.0\LightDarkSideDictionary.deps.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\bin\Debug\netcoreapp2.0\LightDarkSideDictionary.runtimeconfig.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\bin\Debug\netcoreapp2.0\LightDarkSideDictionary.runtimeconfig.dev.json
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\bin\Debug\netcoreapp2.0\LightDarkSideDictionary.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\bin\Debug\netcoreapp2.0\LightDarkSideDictionary.pdb
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.csprojResolveAssemblyReference.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.csproj.CoreCompileInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.AssemblyInfoInputs.cache
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.AssemblyInfo.cs
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.dll
+c:\users\havit\source\repos\Objects(Dict)Exercises6.17.18\LightDarkSideDictionary\obj\Debug\netcoreapp2.0\LightDarkSideDictionary.pdb
