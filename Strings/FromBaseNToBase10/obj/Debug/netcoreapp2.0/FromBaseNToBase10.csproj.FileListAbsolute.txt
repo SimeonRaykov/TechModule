@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\bin\Debug\netcoreapp2.0\FromBaseNToBase10.deps.json
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\bin\Debug\netcoreapp2.0\FromBaseNToBase10.runtimeconfig.json
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\bin\Debug\netcoreapp2.0\FromBaseNToBase10.runtimeconfig.dev.json
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\bin\Debug\netcoreapp2.0\FromBaseNToBase10.dll
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\bin\Debug\netcoreapp2.0\FromBaseNToBase10.pdb
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.AssemblyInfo.cs
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.dll
+C:\Users\havit\source\repos\StringsExercises\FromBaseNToBase10\obj\Debug\netcoreapp2.0\FromBaseNToBase10.pdb

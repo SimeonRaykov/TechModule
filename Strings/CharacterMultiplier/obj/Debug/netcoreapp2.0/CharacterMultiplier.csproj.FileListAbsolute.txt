@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.deps.json
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.json
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.dll
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.pdb
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.dll
+C:\Users\havit\source\repos\StringsExercises\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.pdb

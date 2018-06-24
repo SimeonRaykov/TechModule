@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\bin\Debug\netcoreapp2.0\StringUnicode.deps.json
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\bin\Debug\netcoreapp2.0\StringUnicode.runtimeconfig.json
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\bin\Debug\netcoreapp2.0\StringUnicode.runtimeconfig.dev.json
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\bin\Debug\netcoreapp2.0\StringUnicode.dll
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\bin\Debug\netcoreapp2.0\StringUnicode.pdb
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.csprojResolveAssemblyReference.cache
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.AssemblyInfo.cs
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.dll
+C:\Users\havit\source\repos\StringsExercises\StringUnicode\obj\Debug\netcoreapp2.0\StringUnicode.pdb
