@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.deps.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.runtimeconfig.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.runtimeconfig.dev.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\bin\Debug\netcoreapp2.0\ManipulateArray.pdb
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.AssemblyInfo.cs
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\ManipulateArray\obj\Debug\netcoreapp2.0\ManipulateArray.pdb

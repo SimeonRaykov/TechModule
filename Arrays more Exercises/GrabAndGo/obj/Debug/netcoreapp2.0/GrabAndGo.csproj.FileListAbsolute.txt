@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.deps.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.runtimeconfig.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.runtimeconfig.dev.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\bin\Debug\netcoreapp2.0\GrabAndGo.pdb
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.AssemblyInfo.cs
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\GrabAndGo\obj\Debug\netcoreapp2.0\GrabAndGo.pdb

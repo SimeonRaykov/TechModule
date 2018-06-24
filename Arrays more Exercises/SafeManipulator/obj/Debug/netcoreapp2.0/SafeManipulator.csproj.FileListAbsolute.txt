@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\bin\Debug\netcoreapp2.0\SafeManipulator.deps.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\bin\Debug\netcoreapp2.0\SafeManipulator.runtimeconfig.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\bin\Debug\netcoreapp2.0\SafeManipulator.runtimeconfig.dev.json
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\bin\Debug\netcoreapp2.0\SafeManipulator.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\bin\Debug\netcoreapp2.0\SafeManipulator.pdb
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\obj\Debug\netcoreapp2.0\SafeManipulator.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\obj\Debug\netcoreapp2.0\SafeManipulator.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\obj\Debug\netcoreapp2.0\SafeManipulator.AssemblyInfo.cs
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\obj\Debug\netcoreapp2.0\SafeManipulator.dll
+C:\Users\havit\source\repos\ArraysMoreExercises6.7.18\SafeManipulator\obj\Debug\netcoreapp2.0\SafeManipulator.pdb
