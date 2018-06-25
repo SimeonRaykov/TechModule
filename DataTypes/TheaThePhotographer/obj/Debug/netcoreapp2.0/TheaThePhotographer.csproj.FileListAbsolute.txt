@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.deps.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.runtimeconfig.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\bin\Debug\netcoreapp2.0\TheaThePhotographer.pdb
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\TheaThePhotographer\obj\Debug\netcoreapp2.0\TheaThePhotographer.pdb
