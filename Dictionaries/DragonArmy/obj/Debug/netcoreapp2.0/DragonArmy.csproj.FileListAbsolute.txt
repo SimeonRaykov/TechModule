@@ -1,0 +1,11 @@
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.deps.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.runtimeconfig.dev.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.dll
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\bin\Debug\netcoreapp2.0\DragonArmy.pdb
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csprojAssemblyReference.cache
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.AssemblyInfo.cs
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.dll
+c:\users\simeon\source\repos\StringsAndTextProcessing\DragonArmy\obj\Debug\netcoreapp2.0\DragonArmy.pdb
