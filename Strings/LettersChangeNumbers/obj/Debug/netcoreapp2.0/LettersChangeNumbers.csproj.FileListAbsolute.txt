@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.deps.json
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.json
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\bin\Debug\netcoreapp2.0\LettersChangeNumbers.pdb
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.dll
+C:\Users\Simeon\source\repos\StringAndTextProcessingExercises15.16.18\LettersChangeNumbers\obj\Debug\netcoreapp2.0\LettersChangeNumbers.pdb

@@ -1,0 +1,10 @@
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\bin\Debug\netcoreapp2.0\SumBigValuesSB.deps.json
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\bin\Debug\netcoreapp2.0\SumBigValuesSB.runtimeconfig.json
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\bin\Debug\netcoreapp2.0\SumBigValuesSB.runtimeconfig.dev.json
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\bin\Debug\netcoreapp2.0\SumBigValuesSB.dll
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\bin\Debug\netcoreapp2.0\SumBigValuesSB.pdb
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\obj\Debug\netcoreapp2.0\SumBigValuesSB.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\obj\Debug\netcoreapp2.0\SumBigValuesSB.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\obj\Debug\netcoreapp2.0\SumBigValuesSB.AssemblyInfo.cs
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\obj\Debug\netcoreapp2.0\SumBigValuesSB.dll
+c:\users\simeon\source\repos\StringAndTextProcessingExercises15.16.18\SumBigValuesSB\obj\Debug\netcoreapp2.0\SumBigValuesSB.pdb
