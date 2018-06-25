@@ -1,0 +1,11 @@
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\bin\Debug\netcoreapp2.0\weather.deps.json
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\bin\Debug\netcoreapp2.0\weather.runtimeconfig.json
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\bin\Debug\netcoreapp2.0\weather.runtimeconfig.dev.json
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\bin\Debug\netcoreapp2.0\weather.dll
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\bin\Debug\netcoreapp2.0\weather.pdb
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.csprojAssemblyReference.cache
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.AssemblyInfo.cs
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.dll
+c:\users\simeon\source\repos\18.6.18RegexLab\weather\obj\Debug\netcoreapp2.0\weather.pdb

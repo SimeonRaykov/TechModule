@@ -1,0 +1,4 @@
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Files\obj\Debug\netcoreapp2.0\Files.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Files\obj\Debug\netcoreapp2.0\Files.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfo.cs

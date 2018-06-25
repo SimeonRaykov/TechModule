@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\bin\Debug\netcoreapp2.0\Camera.deps.json
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\bin\Debug\netcoreapp2.0\Camera.runtimeconfig.json
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\bin\Debug\netcoreapp2.0\Camera.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\bin\Debug\netcoreapp2.0\Camera.dll
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\bin\Debug\netcoreapp2.0\Camera.pdb
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.dll
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.pdb
+C:\Users\Simeon\source\repos\18.6.18RegexLab\Camera\obj\Debug\netcoreapp2.0\Camera.csprojAssemblyReference.cache
