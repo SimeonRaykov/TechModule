@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\bin\Debug\netcoreapp2.0\regexReplace5.deps.json
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\bin\Debug\netcoreapp2.0\regexReplace5.runtimeconfig.json
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\bin\Debug\netcoreapp2.0\regexReplace5.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\bin\Debug\netcoreapp2.0\regexReplace5.dll
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\bin\Debug\netcoreapp2.0\regexReplace5.pdb
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.dll
+C:\Users\Simeon\source\repos\regexReplace5\regexReplace5\obj\Debug\netcoreapp2.0\regexReplace5.pdb
