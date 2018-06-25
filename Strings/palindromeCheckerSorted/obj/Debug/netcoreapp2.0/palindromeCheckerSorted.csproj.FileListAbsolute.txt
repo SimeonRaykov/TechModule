@@ -1,0 +1,11 @@
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.AssemblyInfo.cs
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\bin\Debug\netcoreapp2.0\palindromeCheckerSorted.deps.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\bin\Debug\netcoreapp2.0\palindromeCheckerSorted.runtimeconfig.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\bin\Debug\netcoreapp2.0\palindromeCheckerSorted.runtimeconfig.dev.json
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\bin\Debug\netcoreapp2.0\palindromeCheckerSorted.dll
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\bin\Debug\netcoreapp2.0\palindromeCheckerSorted.pdb
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.dll
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.pdb
+c:\users\simeon\source\repos\StringsAndTextProcessing\palindromeCheckerSorted\obj\Debug\netcoreapp2.0\palindromeCheckerSorted.csprojAssemblyReference.cache
