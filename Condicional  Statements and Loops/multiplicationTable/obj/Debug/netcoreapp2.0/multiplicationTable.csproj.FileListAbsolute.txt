@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.deps.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.runtimeconfig.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\bin\Debug\netcoreapp2.0\multiplicationTable.pdb
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\multiplicationTable\obj\Debug\netcoreapp2.0\multiplicationTable.pdb

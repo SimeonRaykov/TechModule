@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\bin\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.deps.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\bin\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.runtimeconfig.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\bin\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\bin\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\bin\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.pdb
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers2\obj\Debug\netcoreapp2.0\ExamFundamentalsRageExpenses.pdb

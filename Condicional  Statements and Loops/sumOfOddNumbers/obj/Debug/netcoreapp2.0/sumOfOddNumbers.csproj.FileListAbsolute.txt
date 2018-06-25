@@ -1,0 +1,10 @@
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.deps.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.runtimeconfig.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\bin\Debug\netcoreapp2.0\sumOfOddNumbers.pdb
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.dll
+C:\Users\Simeon\source\repos\Csharp17.5.18CondicionalStatements\sumOfOddNumbers\obj\Debug\netcoreapp2.0\sumOfOddNumbers.pdb
