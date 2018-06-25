@@ -1,0 +1,11 @@
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\bin\Debug\netcoreapp2.0\A_MinerTask.deps.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\bin\Debug\netcoreapp2.0\A_MinerTask.runtimeconfig.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\bin\Debug\netcoreapp2.0\A_MinerTask.runtimeconfig.dev.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\bin\Debug\netcoreapp2.0\A_MinerTask.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\bin\Debug\netcoreapp2.0\A_MinerTask.pdb
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.csprojAssemblyReference.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.AssemblyInfo.cs
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\aMinerTask\obj\Debug\netcoreapp2.0\A_MinerTask.pdb

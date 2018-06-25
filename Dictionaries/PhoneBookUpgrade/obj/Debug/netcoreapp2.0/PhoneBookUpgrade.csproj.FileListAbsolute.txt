@@ -1,0 +1,11 @@
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\bin\Debug\netcoreapp2.0\PhoneBookUpgrade.deps.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\bin\Debug\netcoreapp2.0\PhoneBookUpgrade.runtimeconfig.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\bin\Debug\netcoreapp2.0\PhoneBookUpgrade.runtimeconfig.dev.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\bin\Debug\netcoreapp2.0\PhoneBookUpgrade.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\bin\Debug\netcoreapp2.0\PhoneBookUpgrade.pdb
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.AssemblyInfo.cs
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.pdb
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\PhoneBookUpgrade\obj\Debug\netcoreapp2.0\PhoneBookUpgrade.csprojAssemblyReference.cache

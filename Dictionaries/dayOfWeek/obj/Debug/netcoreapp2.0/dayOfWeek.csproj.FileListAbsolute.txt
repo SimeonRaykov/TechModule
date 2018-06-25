@@ -1,0 +1,10 @@
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\bin\Debug\netcoreapp2.0\dayOfWeek.deps.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\bin\Debug\netcoreapp2.0\dayOfWeek.runtimeconfig.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\bin\Debug\netcoreapp2.0\dayOfWeek.runtimeconfig.dev.json
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\bin\Debug\netcoreapp2.0\dayOfWeek.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\bin\Debug\netcoreapp2.0\dayOfWeek.pdb
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\obj\Debug\netcoreapp2.0\dayOfWeek.csproj.CoreCompileInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\obj\Debug\netcoreapp2.0\dayOfWeek.AssemblyInfoInputs.cache
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\obj\Debug\netcoreapp2.0\dayOfWeek.AssemblyInfo.cs
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\obj\Debug\netcoreapp2.0\dayOfWeek.dll
+c:\users\simeon\source\repos\8.6.18DictionariesExercises\dayOfWeek\obj\Debug\netcoreapp2.0\dayOfWeek.pdb
