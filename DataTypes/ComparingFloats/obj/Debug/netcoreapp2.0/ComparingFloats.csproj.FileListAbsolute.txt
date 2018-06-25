@@ -1,0 +1,10 @@
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.deps.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.runtimeconfig.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\bin\Debug\netcoreapp2.0\ComparingFloats.pdb
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ComparingFloats\obj\Debug\netcoreapp2.0\ComparingFloats.pdb

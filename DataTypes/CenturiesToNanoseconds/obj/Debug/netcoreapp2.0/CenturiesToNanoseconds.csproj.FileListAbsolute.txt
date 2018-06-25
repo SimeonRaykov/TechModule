@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.deps.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.runtimeconfig.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\CenturiesToNanoseconds.pdb
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\CenturiesToNanoseconds.pdb

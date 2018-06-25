@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.deps.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb

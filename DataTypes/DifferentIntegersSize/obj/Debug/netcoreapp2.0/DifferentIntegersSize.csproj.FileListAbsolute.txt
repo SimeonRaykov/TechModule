@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.deps.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.pdb
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+C:\Users\Simeon\source\repos\21.05.18.DataTypesAndVariablesLab\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.pdb
