@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\29.6.18\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.deps.json
+C:\Users\havit\source\repos\29.6.18\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.runtimeconfig.json
+C:\Users\havit\source\repos\29.6.18\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.runtimeconfig.dev.json
+C:\Users\havit\source\repos\29.6.18\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.dll
+C:\Users\havit\source\repos\29.6.18\WinningTicket\bin\Debug\netcoreapp2.0\WinningTicket.pdb
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.csprojAssemblyReference.cache
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.AssemblyInfo.cs
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.dll
+C:\Users\havit\source\repos\29.6.18\WinningTicket\obj\Debug\netcoreapp2.0\WinningTicket.pdb

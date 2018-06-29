@@ -1,0 +1,10 @@
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.deps.json
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.runtimeconfig.json
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.runtimeconfig.dev.json
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.dll
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\bin\Debug\netcoreapp2.0\EnduranceRally.pdb
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.AssemblyInfo.cs
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.dll
+C:\Users\havit\source\repos\29.6.18\EnduranceRally\obj\Debug\netcoreapp2.0\EnduranceRally.pdb
