@@ -1,0 +1,11 @@
+C:\Users\havit\source\repos\29.6.18\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.deps.json
+C:\Users\havit\source\repos\29.6.18\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.runtimeconfig.json
+C:\Users\havit\source\repos\29.6.18\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.runtimeconfig.dev.json
+C:\Users\havit\source\repos\29.6.18\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.dll
+C:\Users\havit\source\repos\29.6.18\MemoryView\bin\Debug\netcoreapp2.0\MemoryView.pdb
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.csproj.CoreCompileInputs.cache
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.AssemblyInfoInputs.cache
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.AssemblyInfo.cs
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.dll
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.pdb
+C:\Users\havit\source\repos\29.6.18\MemoryView\obj\Debug\netcoreapp2.0\MemoryView.csprojAssemblyReference.cache
