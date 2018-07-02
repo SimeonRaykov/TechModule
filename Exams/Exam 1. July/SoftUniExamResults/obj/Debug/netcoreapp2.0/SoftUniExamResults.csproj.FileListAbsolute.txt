@@ -1,0 +1,10 @@
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\obj\Debug\netcoreapp2.0\SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\obj\Debug\netcoreapp2.0\SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\obj\Debug\netcoreapp2.0\SoftUniExamResults.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\bin\Debug\netcoreapp2.0\SoftUniExamResults.deps.json
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\bin\Debug\netcoreapp2.0\SoftUniExamResults.runtimeconfig.json
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\bin\Debug\netcoreapp2.0\SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\bin\Debug\netcoreapp2.0\SoftUniExamResults.dll
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\bin\Debug\netcoreapp2.0\SoftUniExamResults.pdb
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\obj\Debug\netcoreapp2.0\SoftUniExamResults.dll
+C:\Users\Simeon\source\repos\Exam1.07.18\SoftUniExamResults\obj\Debug\netcoreapp2.0\SoftUniExamResults.pdb

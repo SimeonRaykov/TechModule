@@ -1,0 +1,11 @@
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\bin\Debug\netcoreapp2.0\RegexExercise.deps.json
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\bin\Debug\netcoreapp2.0\RegexExercise.runtimeconfig.json
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\bin\Debug\netcoreapp2.0\RegexExercise.runtimeconfig.dev.json
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\bin\Debug\netcoreapp2.0\RegexExercise.dll
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\bin\Debug\netcoreapp2.0\RegexExercise.pdb
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.csprojAssemblyReference.cache
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.csproj.CoreCompileInputs.cache
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.AssemblyInfoInputs.cache
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.AssemblyInfo.cs
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.dll
+C:\Users\Simeon\source\repos\Exam1.07.18\RegexExercise\obj\Debug\netcoreapp2.0\RegexExercise.pdb
